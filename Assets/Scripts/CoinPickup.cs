@@ -8,6 +8,7 @@ public class CoinPickup : MonoBehaviour
     [SerializeField] int pointsPerCoinPickup = 100;
 
     // Destroy coin when player triggers a collision on coin.
+    // It has been changed by Asen
     private void OnTriggerEnter2D(Collider2D collision)
     {
         FindObjectOfType<GameSession>().AddToScore(pointsPerCoinPickup);
