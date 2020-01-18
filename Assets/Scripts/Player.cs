@@ -34,7 +34,7 @@ public class Player : MonoBehaviour
     {
         if(!isAlive) { return; }
         Run();
-        ClimbLadder();
+        // ClimbLadder();
         Jump();
         FlipSprite();
         Die();
@@ -51,23 +51,23 @@ public class Player : MonoBehaviour
     }
 
 
-    private void ClimbLadder()
-    {
-        if(!myFeet.IsTouchingLayers(LayerMask.GetMask("Climbing")))
-        {
-            myAnimator.SetBool("Climbing", false);
-            myRigidBody.gravityScale = gravityScaleAtStart;
-            return;
-        }
+    //private void ClimbLadder()
+    //{
+    //    if(!myFeet.IsTouchingLayers(LayerMask.GetMask("Climbing")))
+    //    {
+    //        myAnimator.SetBool("Climbing", false);
+    //        myRigidBody.gravityScale = gravityScaleAtStart;
+    //        return;
+    //    }
 
-        float controlThrow = Input.GetAxis("Vertical");
-        Vector2 climbVelocity = new Vector2(myRigidBody.velocity.x, controlThrow * climbSpeed);
-        myRigidBody.velocity = climbVelocity;
-        myRigidBody.gravityScale = 0f;
+    //    float controlThrow = Input.GetAxis("Vertical");
+    //    Vector2 climbVelocity = new Vector2(myRigidBody.velocity.x, controlThrow * climbSpeed);
+    //    myRigidBody.velocity = climbVelocity;
+    //    myRigidBody.gravityScale = 0f;
 
-        bool playerHasVerticalSpeed = Mathf.Abs(myRigidBody.velocity.y) > Mathf.Epsilon;
-        myAnimator.SetBool("Climbing", playerHasVerticalSpeed);
-    }
+    //    bool playerHasVerticalSpeed = Mathf.Abs(myRigidBody.velocity.y) > Mathf.Epsilon;
+    //    myAnimator.SetBool("Climbing", playerHasVerticalSpeed);
+    //}
 
     private void Jump()
     {
