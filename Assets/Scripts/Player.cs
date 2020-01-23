@@ -34,7 +34,7 @@ public class Player : MonoBehaviour
     {
         if (!isAlive) { return; }
         Run();
-        // ClimbLadder();
+        ClimbLadder();
         Jump();
         FlipSprite();
         Die();
