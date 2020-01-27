@@ -14,6 +14,12 @@ public class GameSession : MonoBehaviour
     [SerializeField] Image[] hearts;
     [SerializeField] Transform optionsMenu;
 
+    public static void ResetSession()
+    {
+        playerLives = 3;
+        score = 0;
+    }
+
     public static void LoadGame(PlayerData data)
     {
         playerLives = data.lives;

@@ -12,6 +12,8 @@ public class PlayerData
     private static string savePath = Application.persistentDataPath + "/playerData.fun";
     private static BinaryFormatter formatter = new BinaryFormatter();
 
+    private static PlayerData freshInstance = new PlayerData(1, 3, 0);
+
     public PlayerData(int levelIndex, int lives, int score)
     {
         this.levelIndex = levelIndex;
@@ -39,5 +41,11 @@ public class PlayerData
             return true;
         }
         else { Debug.Log("Save data not found."); return false; }
+    }
+
+    public static void EraseSaveFile()
+    {
+        if (File.Exists(savePath))
+            File.Delete(savePath);
     }
 }

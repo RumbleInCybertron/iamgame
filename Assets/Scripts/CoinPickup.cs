@@ -22,6 +22,8 @@ public class CoinPickup : MonoBehaviour
         if (gameObject.CompareTag(gameStarterTag))
         {
             var currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+            PlayerData.EraseSaveFile();
+            GameSession.ResetSession();
             SceneManager.LoadScene(currentSceneIndex + 1);
         }
         else if (gameObject.CompareTag(continueGameTag))
