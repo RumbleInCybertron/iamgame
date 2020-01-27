@@ -10,6 +10,7 @@ public class PlayerCombat : MonoBehaviour
     public LayerMask enemyLayers;
 
     public float attackRange = 0.5f;
+    public float attackRangeKatana = 0.7f;
     public int attackDamage = 40;
     public int katanaDamageAddition = 20;
 
@@ -22,6 +23,12 @@ public class PlayerCombat : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.RightShift))
             {
+                if(GetComponent<Player>().hasKatana) 
+                { 
+                    katanaAttack();
+                    nextAttackTime = Time.time + 1f / attackRate;
+                    return;
+                }
                 fistAttack();
                 nextAttackTime = Time.time + 1f / attackRate;
             }
@@ -50,7 +57,7 @@ public class PlayerCombat : MonoBehaviour
     void katanaAttack()
     {
         // Play an attack animation
-        animator.SetTrigger("AttackKatana");
+        animator.SetTrigger("KatanaSlash");
 
         // Detect enemies in range of attack
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
