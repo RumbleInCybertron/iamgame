@@ -10,9 +10,9 @@ public class SettingsMenuHandler : MonoBehaviour
 
     private void Awake()
     {
-        float volume = PlayerPrefs.GetFloat("master_volume");
-        int graphicsPreset = PlayerPrefs.GetInt("graphics_preset");
-        bool isFullscreen = PlayerPrefs.GetInt("is_fullscreen") == 1 ? true : false;
+        float volume = GameSession.GetVolume();
+        int graphicsPreset = GameSession.GetGraphicsPreset();
+        bool isFullscreen = GameSession.GetFullscreen();
 
         slider.GetComponent<Slider>().value = volume;
         graphicsDropDown.GetComponent<Dropdown>().value = graphicsPreset;
@@ -22,22 +22,17 @@ public class SettingsMenuHandler : MonoBehaviour
 
     public void SetVolume(float value)
     {
-        PlayerPrefs.SetFloat("master_volume", value);
-        PlayerPrefs.Save();
+        GameSession.SetVolume(value);
     }
 
     public void SetGraphics(int value)
     {
-        QualitySettings.SetQualityLevel(value);
-        PlayerPrefs.SetInt("graphics_preset", value);
-        PlayerPrefs.Save();
+        GameSession.SetGraphicsPreset(value);
     }
 
     public void SetFullScreen(bool isFullscreen)
     {
-        PlayerPrefs.SetInt("is_fullscreen", isFullscreen ? 1 : 0);
-        PlayerPrefs.Save();
-        Screen.fullScreen = isFullscreen;
+        GameSession.SetFullscreen(isFullscreen);
     }
 
     public void GoBack()
