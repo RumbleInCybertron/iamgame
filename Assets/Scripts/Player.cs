@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -12,6 +13,7 @@ public class Player : MonoBehaviour
 
     // State
     bool isAlive = true;
+    public bool hasKatana = false;
 
     // Cached component references
     Rigidbody2D myRigidBody;
@@ -33,16 +35,19 @@ public class Player : MonoBehaviour
     void Update()
     {
         if (!isAlive) { return; }
+        isGrounded();
         Run();
+        RunWithKatana();
         ClimbLadder();
         Jump();
-        isGrounded();
         FlipSprite();
         Die();
     }
 
     private void Run()
     {
+        if(hasKatana) { return;}
+
         float controlThrow = Input.GetAxis("Horizontal");   // value is between -1 to +1
         Vector2 playerVelocity = new Vector2(controlThrow * runSpeed, myRigidBody.velocity.y);
         myRigidBody.velocity = playerVelocity;
@@ -54,8 +59,26 @@ public class Player : MonoBehaviour
         {
             myAnimator.SetBool("Running", false);
         }
+
+
     }
 
+    private void RunWithKatana()
+    {
+            float controlThrow = Input.GetAxis("Horizontal");   // value is between -1 to +1
+            Vector2 playerVelocity = new Vector2(controlThrow * runSpeed, myRigidBody.velocity.y);
+            myRigidBody.velocity = playerVelocity;
+
+            bool playerHasHorizontalSpeed = Mathf.Abs(myRigidBody.velocity.x) > Mathf.Epsilon;
+            myAnimator.SetBool("RunningKatana", playerHasHorizontalSpeed);
+            myAnimator.SetBool("IdleKatana", false);
+
+            if (controlThrow == 0)
+            {
+                myAnimator.SetBool("RunningKatana", false);
+            }
+ 
+    }
 
     private void ClimbLadder()
     {
@@ -87,7 +110,7 @@ public class Player : MonoBehaviour
             myAnimator.SetBool("Idle", false);
             myAnimator.SetBool("Running", false);
         }
-        if (isGrounded() == true)
+        if (isGrounded())
         {
             myAnimator.SetBool("Jumping", false);
             myAnimator.SetBool("Idle", true);
@@ -99,6 +122,12 @@ public class Player : MonoBehaviour
     {
         if (myFeet.IsTouchingLayers(LayerMask.GetMask("Ground")))
         {
+            if (hasKatana)
+            {
+                myAnimator.SetBool("IdleKatana", true);
+                myAnimator.SetBool("Idle", false);
+                return true;
+            }
             myAnimator.SetBool("Idle", true);
             return true;
         }

@@ -6,9 +6,6 @@ TextureImporter:
       213: 4720666691208247078
     second: eige_char_sword_and_idle-Sheet_0
   - first:
-      213: -6643390673074689257
-    second: eige_char_sword_and_idle-Sheet_1
-  - first:
       213: -7049039418521306341
     second: eige_char_sword_and_idle-Sheet_2
   - first:
@@ -23,9 +20,6 @@ TextureImporter:
   - first:
       213: -7463526100186631930
     second: eige_char_sword_and_idle-Sheet_6
-  - first:
-      213: 2784968370091811315
-    second: eige_char_sword_and_idle-Sheet_7
   - first:
       213: 1934941427760017701
     second: eige_char_sword_and_idle-Sheet_8
@@ -42,9 +36,6 @@ TextureImporter:
       213: 1088586845590270878
     second: eige_char_sword_and_idle-Sheet_14
   - first:
-      213: -1191636593900680914
-    second: eige_char_sword_and_idle-Sheet_15
-  - first:
       213: 5549994909600245889
     second: eige_char_sword_and_idle-Sheet_17
   - first:
@@ -57,17 +48,26 @@ TextureImporter:
       213: -2728208112158056173
     second: eige_char_sword_and_idle-Sheet_20
   - first:
+      213: -6643390673074689257
+    second: eige_char_sword_and_idle-Sheet_1
+  - first:
       213: -5691463699872163384
     second: eige_char_sword_and_idle-Sheet_10
   - first:
+      213: 4662414574914695096
+    second: eige_char_sword_and_idle-Sheet_26
+  - first:
+      213: 2784968370091811315
+    second: eige_char_sword_and_idle-Sheet_7
+  - first:
+      213: 7096243667971642166
+    second: eige_char_sword_and_idle-Sheet_27
+  - first:
+      213: -9095563243624648984
+    second: eige_char_sword_and_idle-Sheet_28
+  - first:
       213: 7118970431934866019
     second: eige_char_sword_and_idle-Sheet_12
-  - first:
-      213: -6031135144339227527
-    second: eige_char_sword_and_idle-Sheet_16
-  - first:
-      213: -1908335681667875195
-    second: eige_char_sword_and_idle-Sheet_21
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -102,7 +102,7 @@ TextureImporter:
     mipBias: -100
     wrapU: 1
     wrapV: 1
-    wrapW: 1
+    wrapW: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -184,35 +184,14 @@ TextureImporter:
         width: 19
         height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 571570867d593e04ba6270f191af480e
+      spriteID: 3befdb068ee75944d8f84b0b76fa42d3
       internalID: 4720666691208247078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: eige_char_sword_and_idle-Sheet_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 96
-        width: 29
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef57b1bffd1e80b41bdc197715aba921
-      internalID: -6643390673074689257
       vertices: []
       indices: 
       edges: []
@@ -226,13 +205,13 @@ TextureImporter:
         width: 26
         height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab8e8bf3c203fea4fbcf8333991c11c5
+      spriteID: a983b9e6419c57b4f9498053b15462b3
       internalID: -7049039418521306341
       vertices: []
       indices: 
@@ -247,13 +226,13 @@ TextureImporter:
         width: 27
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 556870d663944e84f9ea86734599b6e6
+      spriteID: 44a4c94d50b870443907f86060cba786
       internalID: -5518363011422395018
       vertices: []
       indices: 
@@ -268,13 +247,13 @@ TextureImporter:
         width: 28
         height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d23a1771b4324a64583ff5b5d648ea33
+      spriteID: 7b88b7e007209f7489ce27973762f53b
       internalID: 1399670020670092172
       vertices: []
       indices: 
@@ -289,13 +268,13 @@ TextureImporter:
         width: 27
         height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e38cefe10f7513145a0a2924ce53428f
+      spriteID: d7257fe37505acf49b971ae91c72ad46
       internalID: -2700805956062515959
       vertices: []
       indices: 
@@ -310,35 +289,14 @@ TextureImporter:
         width: 26
         height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ae7294430f799c478810109862ae19b
+      spriteID: 67829734b190df14aace995a33d25e44
       internalID: -7463526100186631930
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: eige_char_sword_and_idle-Sheet_7
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 64
-        width: 28
-        height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 950071659aecde940a9be8383c2a4e81
-      internalID: 2784968370091811315
       vertices: []
       indices: 
       edges: []
@@ -352,13 +310,13 @@ TextureImporter:
         width: 28
         height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 446a5922e2df10340b8c7e8f3ae7c2cf
+      spriteID: 1979a2868914f094db9e8784d71e9f04
       internalID: 1934941427760017701
       vertices: []
       indices: 
@@ -373,13 +331,13 @@ TextureImporter:
         width: 28
         height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a88bce1cd34b42408e8b0ef484130a3
+      spriteID: 3a746be061607c0409f6b89367c8d1de
       internalID: -2419377859209579510
       vertices: []
       indices: 
@@ -394,13 +352,13 @@ TextureImporter:
         width: 26
         height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f115043dede819f4b9cbf70e0ba192ef
+      spriteID: 1876b9336ff4d4d478bf8d3633a8025b
       internalID: 4677905407784859802
       vertices: []
       indices: 
@@ -415,13 +373,13 @@ TextureImporter:
         width: 24
         height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c7e32c9b05f9004794b61075d48306b
+      spriteID: 02ed194ff84ad0c4fa870069535a9c14
       internalID: -5037847078408332684
       vertices: []
       indices: 
@@ -436,35 +394,14 @@ TextureImporter:
         width: 28
         height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e33d22b546062e64b91e9ffb10f02ce4
+      spriteID: 9eba729f41479aa4eaa1a84086d26560
       internalID: 1088586845590270878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: eige_char_sword_and_idle-Sheet_15
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 32
-        width: 26
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0df675c07469a8a43ac4b6d1bab69f33
-      internalID: -1191636593900680914
       vertices: []
       indices: 
       edges: []
@@ -478,13 +415,13 @@ TextureImporter:
         width: 26
         height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c37a2a6e7eab75740830449cd3aba3d0
+      spriteID: 159d66caf86fdaa43b1227a3d2b4ba24
       internalID: 5549994909600245889
       vertices: []
       indices: 
@@ -499,13 +436,13 @@ TextureImporter:
         width: 29
         height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 110d4ac22605d4e49ae71f2c16235ee5
+      spriteID: 5fe624a29cf0cf04399cd22e78f4789f
       internalID: -1690147623896428934
       vertices: []
       indices: 
@@ -520,13 +457,13 @@ TextureImporter:
         width: 26
         height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44c0fcb07fd050146a1e1925e51d5c3a
+      spriteID: 31a4df0c658b9b54580fabb6a49c5243
       internalID: -4355366466761085446
       vertices: []
       indices: 
@@ -541,14 +478,35 @@ TextureImporter:
         width: 4
         height: 4
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c56a34b929051e4caa1df275bd84424
+      spriteID: 24f62147056bb9340bdb07ccfd0e829f
       internalID: -2728208112158056173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_char_sword_and_idle-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 96
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba04663aa58001408c1c13b5d384e20
+      internalID: -6643390673074689257
       vertices: []
       indices: 
       edges: []
@@ -568,14 +526,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9979aa0a69e21464481ee59143fb6268
+      spriteID: a7f9c22c2fa0c324385c7644084a79f3
       internalID: -5691463699872163384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eige_char_sword_and_idle-Sheet_12
+      name: eige_char_sword_and_idle-Sheet_26
       rect:
         serializedVersion: 2
         x: 32
@@ -589,14 +547,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6aa71cf9b835cb4d8169b0ed9ceb3c7
-      internalID: 7118970431934866019
+      spriteID: 7deba38216555a346b57f8e949cd9ee8
+      internalID: 4662414574914695096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eige_char_sword_and_idle-Sheet_16
+      name: eige_char_sword_and_idle-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef907dfbfc88f644b64338f9462df1d
+      internalID: 2784968370091811315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_char_sword_and_idle-Sheet_27
       rect:
         serializedVersion: 2
         x: 64
@@ -610,14 +589,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63f4a272210618a4cb78723bb95286dd
-      internalID: -6031135144339227527
+      spriteID: 5a71e78e1609807409aaa85fd42544fa
+      internalID: 7096243667971642166
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: eige_char_sword_and_idle-Sheet_21
+      name: eige_char_sword_and_idle-Sheet_28
       rect:
         serializedVersion: 2
         x: 65
@@ -631,8 +610,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 240e4f09bee80c2459ec77fbb03067fb
-      internalID: -1908335681667875195
+      spriteID: 044709139522e3a418bb41f22ab5deb5
+      internalID: -9095563243624648984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_char_sword_and_idle-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0604dfeffa59f224a972cd45ec5799fd
+      internalID: 7118970431934866019
       vertices: []
       indices: 
       edges: []
@@ -640,7 +640,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 392ca73a7d204224288b0178687b3ba0
     internalID: 0
     vertices: []
     indices: 

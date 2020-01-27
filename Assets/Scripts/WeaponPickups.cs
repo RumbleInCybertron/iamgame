@@ -13,8 +13,10 @@ public class WeaponPickups : MonoBehaviour
 
         if (collision.GetComponent<Player>() == null) { return; }
 
+
         float volume = PlayerPrefs.GetFloat("master_volume");
         AudioSource.PlayClipAtPoint(katanaPickupFX, Camera.main.transform.position, volume);
+        FindObjectOfType<Player>().hasKatana = true;
         Destroy(gameObject);
     }
 }

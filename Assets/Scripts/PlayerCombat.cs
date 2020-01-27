@@ -11,6 +11,7 @@ public class PlayerCombat : MonoBehaviour
 
     public float attackRange = 0.5f;
     public int attackDamage = 40;
+    public int katanaDamageAddition = 20;
 
     public float attackRate = 2f;
     float nextAttackTime = 0f;
@@ -21,14 +22,14 @@ public class PlayerCombat : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.RightShift))
             {
-                Attack();
+                fistAttack();
                 nextAttackTime = Time.time + 1f / attackRate;
             }
         }
 
     }
 
-    void Attack()
+    void fistAttack()
     {
         // Play an attack animation
         animator.SetTrigger("Attack");
@@ -43,6 +44,24 @@ public class PlayerCombat : MonoBehaviour
         foreach(Collider2D enemy in hitEnemies)
         {
             enemy.GetComponent<Enemy>().TakeDamage(attackDamage);
+        }
+    }
+
+    void katanaAttack()
+    {
+        // Play an attack animation
+        animator.SetTrigger("AttackKatana");
+
+        // Detect enemies in range of attack
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+        // Creates a circle from the attackPoint with a radius we specify
+        // and collects all objects that it hits third parameter 
+        // filters out enemies
+
+        // Damage enemy in range
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            enemy.GetComponent<Enemy>().TakeDamage(attackDamage + katanaDamageAddition);
         }
     }
 

@@ -126,6 +126,8 @@ MonoBehaviour:
     m_Bits: 4096
   attackRange: 0.38
   attackDamage: 40
+  katanaDamageAddition: 20
+  attackRate: 2
 --- !u!50 &6983479442748277819
 Rigidbody2D:
   serializedVersion: 4
@@ -175,10 +177,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4628ecff46145894ca8ac600678d4660, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  runSpeed: 10
+  runSpeed: 8
   jumpSpeed: 28
   climbSpeed: 3
   deathKick: {x: 10, y: 50}
+  hasKatana: 0
 --- !u!61 &6983479442748277818
 BoxCollider2D:
   m_ObjectHideFlags: 0
