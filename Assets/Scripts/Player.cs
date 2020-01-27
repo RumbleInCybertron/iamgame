@@ -36,6 +36,7 @@ public class Player : MonoBehaviour
         Run();
         ClimbLadder();
         Jump();
+        isGrounded();
         FlipSprite();
         Die();
     }
@@ -48,6 +49,11 @@ public class Player : MonoBehaviour
 
         bool playerHasHorizontalSpeed = Mathf.Abs(myRigidBody.velocity.x) > Mathf.Epsilon;
         myAnimator.SetBool("Running", playerHasHorizontalSpeed);
+
+        if (controlThrow == 0)
+        {
+            myAnimator.SetBool("Running", false);
+        }
     }
 
 
@@ -77,7 +83,26 @@ public class Player : MonoBehaviour
         {
             Vector2 jumpVelocityToAdd = new Vector2(0f, jumpSpeed);
             myRigidBody.velocity += jumpVelocityToAdd;
+            myAnimator.SetBool("Jumping", true);
+            myAnimator.SetBool("Idle", false);
+            myAnimator.SetBool("Running", false);
         }
+        if (isGrounded() == true)
+        {
+            myAnimator.SetBool("Jumping", false);
+            myAnimator.SetBool("Idle", true);
+        }
+
+    }
+
+    private bool isGrounded()
+    {
+        if (myFeet.IsTouchingLayers(LayerMask.GetMask("Ground")))
+        {
+            myAnimator.SetBool("Idle", true);
+            return true;
+        }
+        return false;
     }
 
     private void Die()
