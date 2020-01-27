@@ -35,7 +35,7 @@ public class CoinPickup : MonoBehaviour
         }
         else
         {
-            float volume = PlayerPrefs.GetFloat("master_volume");
+            float volume = GameSession.GetVolume();
             AudioSource.PlayClipAtPoint(coinPickUpSFX, Camera.main.transform.position, volume);
             if (gameObject.transform.parent.name != mainMenuCoinsString)
                 FindObjectOfType<GameSession>().AddToScore(pointsPerCoinPickup);

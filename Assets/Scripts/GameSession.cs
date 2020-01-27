@@ -14,6 +14,64 @@ public class GameSession : MonoBehaviour
     [SerializeField] Image[] hearts;
     [SerializeField] Transform optionsMenu;
 
+    #region Game Settings
+    private static string volumeKey = "master_volume";
+    private static string graphicsKey = "graphics_preset";
+    private static string fullscreenKey = "is_fullscreen";
+
+    public static void SetVolume(float value)
+    {
+        PlayerPrefs.SetFloat(volumeKey, value);
+        PlayerPrefs.Save();
+    }
+
+    public static float GetVolume()
+    {
+        if (!PlayerPrefs.HasKey(volumeKey))
+        {
+            SetVolume(1);
+            return 1;
+        }
+        return PlayerPrefs.GetFloat(volumeKey);
+    }
+
+    public static void SetGraphicsPreset(int value)
+    {
+        QualitySettings.SetQualityLevel(value);
+        PlayerPrefs.SetInt(volumeKey, value);
+        PlayerPrefs.Save();
+    }
+
+    public static int GetGraphicsPreset()
+    {
+        if (!PlayerPrefs.HasKey(graphicsKey))
+        {
+            SetGraphicsPreset(2);
+            return 2;
+        }
+        return PlayerPrefs.GetInt(graphicsKey);
+    }
+
+    public static void SetFullscreen(bool value)
+    {
+        Screen.fullScreenMode = value ? FullScreenMode.FullScreenWindow : FullScreenMode.Windowed;
+        int intValue = value ? 1 : 0;
+        PlayerPrefs.SetInt(fullscreenKey, intValue);
+        PlayerPrefs.Save();
+    }
+
+    public static bool GetFullscreen()
+    {
+        if (!PlayerPrefs.HasKey(fullscreenKey))
+        {
+            SetFullscreen(true);
+            return true;
+        }
+        return PlayerPrefs.GetInt(fullscreenKey) == 1 ? true : false;
+    }
+    #endregion
+
+    #region Player Data
     public static void ResetSession()
     {
         playerLives = 3;
@@ -26,6 +84,7 @@ public class GameSession : MonoBehaviour
         score = data.score;
         SceneManager.LoadScene(data.levelIndex);
     }
+    #endregion
 
     public static int getPlayerLives() { return playerLives; }
     public static int getPlayerScore() { return score; }
@@ -95,7 +154,7 @@ public class GameSession : MonoBehaviour
 
     private void ResetGameSession()
     {
-        // TODO: Display game over screen
+        ResetSession();
         SceneManager.LoadScene(0);
         Destroy(gameObject);
     }
