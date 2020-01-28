@@ -1,0 +1,2023 @@
+fileFormatVersion: 2
+guid: 1659b7aa4cbd4344484786f49a0a29e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5705347303283862993
+    second: eige_tiles_scnd_0
+  - first:
+      213: 2604492225278705270
+    second: eige_tiles_scnd_1
+  - first:
+      213: -192082578005034343
+    second: eige_tiles_scnd_2
+  - first:
+      213: -7435098437566504035
+    second: eige_tiles_scnd_3
+  - first:
+      213: 4288855220249452050
+    second: eige_tiles_scnd_4
+  - first:
+      213: -7651937659652174584
+    second: eige_tiles_scnd_5
+  - first:
+      213: 136100910589829225
+    second: eige_tiles_scnd_6
+  - first:
+      213: -1944416065512619190
+    second: eige_tiles_scnd_7
+  - first:
+      213: -8277347145138780604
+    second: eige_tiles_scnd_8
+  - first:
+      213: 7877828547849432038
+    second: eige_tiles_scnd_9
+  - first:
+      213: -734092834560209480
+    second: eige_tiles_scnd_10
+  - first:
+      213: -6064217824437359556
+    second: eige_tiles_scnd_11
+  - first:
+      213: -3107474227118124832
+    second: eige_tiles_scnd_12
+  - first:
+      213: -1401835844123231966
+    second: eige_tiles_scnd_13
+  - first:
+      213: -1698123783866995955
+    second: eige_tiles_scnd_14
+  - first:
+      213: 8112982087019404138
+    second: eige_tiles_scnd_15
+  - first:
+      213: 8386724914326900825
+    second: eige_tiles_scnd_16
+  - first:
+      213: -5213039309963932074
+    second: eige_tiles_scnd_17
+  - first:
+      213: -5047945619844959130
+    second: eige_tiles_scnd_18
+  - first:
+      213: -2299117606293804786
+    second: eige_tiles_scnd_19
+  - first:
+      213: 6903776928367368263
+    second: eige_tiles_scnd_20
+  - first:
+      213: 4431998727197514524
+    second: eige_tiles_scnd_21
+  - first:
+      213: -2293889585105578589
+    second: eige_tiles_scnd_22
+  - first:
+      213: -1523084513582048472
+    second: eige_tiles_scnd_23
+  - first:
+      213: 5029923061599852802
+    second: eige_tiles_scnd_24
+  - first:
+      213: -3662646488174576334
+    second: eige_tiles_scnd_25
+  - first:
+      213: -3846446681812065051
+    second: eige_tiles_scnd_26
+  - first:
+      213: -6611138964595290755
+    second: eige_tiles_scnd_27
+  - first:
+      213: 2825918088484474208
+    second: eige_tiles_scnd_28
+  - first:
+      213: 6114532611745606736
+    second: eige_tiles_scnd_29
+  - first:
+      213: -5695386423694121145
+    second: eige_tiles_scnd_30
+  - first:
+      213: 4812326342105260501
+    second: eige_tiles_scnd_31
+  - first:
+      213: 6432608197783856929
+    second: eige_tiles_scnd_32
+  - first:
+      213: -8324144066293013216
+    second: eige_tiles_scnd_33
+  - first:
+      213: 3277760050278497739
+    second: eige_tiles_scnd_34
+  - first:
+      213: 7006886552943986519
+    second: eige_tiles_scnd_35
+  - first:
+      213: 1403339130362792441
+    second: eige_tiles_scnd_36
+  - first:
+      213: -3178353777407690478
+    second: eige_tiles_scnd_37
+  - first:
+      213: -1018877974593848318
+    second: eige_tiles_scnd_38
+  - first:
+      213: 6485680979694608372
+    second: eige_tiles_scnd_39
+  - first:
+      213: 5987207713306933633
+    second: eige_tiles_scnd_40
+  - first:
+      213: -2141644191004737066
+    second: eige_tiles_scnd_41
+  - first:
+      213: 8507587049546508093
+    second: eige_tiles_scnd_42
+  - first:
+      213: 2461463814735788044
+    second: eige_tiles_scnd_43
+  - first:
+      213: 305240067932238642
+    second: eige_tiles_scnd_44
+  - first:
+      213: -1406853520489210847
+    second: eige_tiles_scnd_45
+  - first:
+      213: 4560333518651639354
+    second: eige_tiles_scnd_46
+  - first:
+      213: -9008143977615733829
+    second: eige_tiles_scnd_47
+  - first:
+      213: 7175654639365738738
+    second: eige_tiles_scnd_48
+  - first:
+      213: -7869782025322743904
+    second: eige_tiles_scnd_49
+  - first:
+      213: 3007927536790193915
+    second: eige_tiles_scnd_50
+  - first:
+      213: -7980228660716422114
+    second: eige_tiles_scnd_51
+  - first:
+      213: -4692769181969709366
+    second: eige_tiles_scnd_52
+  - first:
+      213: -7367746436947272657
+    second: eige_tiles_scnd_53
+  - first:
+      213: 2755769374390758166
+    second: eige_tiles_scnd_54
+  - first:
+      213: -4717599804552887542
+    second: eige_tiles_scnd_55
+  - first:
+      213: -7206929896111064658
+    second: eige_tiles_scnd_56
+  - first:
+      213: -2069487598590528961
+    second: eige_tiles_scnd_57
+  - first:
+      213: -3411729279837984806
+    second: eige_tiles_scnd_58
+  - first:
+      213: 1464760867392825865
+    second: eige_tiles_scnd_59
+  - first:
+      213: 2740163715678155736
+    second: eige_tiles_scnd_60
+  - first:
+      213: -8664907330558342183
+    second: eige_tiles_scnd_61
+  - first:
+      213: -3767803048563138429
+    second: eige_tiles_scnd_62
+  - first:
+      213: 7729321366877007336
+    second: eige_tiles_scnd_63
+  - first:
+      213: -6617084907063310967
+    second: eige_tiles_scnd_64
+  - first:
+      213: 8466190218222966865
+    second: eige_tiles_scnd_65
+  - first:
+      213: 5030216212603571775
+    second: eige_tiles_scnd_66
+  - first:
+      213: -8363789131825084561
+    second: eige_tiles_scnd_67
+  - first:
+      213: 2597167606750427229
+    second: eige_tiles_scnd_68
+  - first:
+      213: 4014260210924059283
+    second: eige_tiles_scnd_69
+  - first:
+      213: 8927273740273875587
+    second: eige_tiles_scnd_70
+  - first:
+      213: 7752290455188798458
+    second: eige_tiles_scnd_71
+  - first:
+      213: 1974061929898215983
+    second: eige_tiles_scnd_72
+  - first:
+      213: 7934519480154189999
+    second: eige_tiles_scnd_73
+  - first:
+      213: 4798064284282133157
+    second: eige_tiles_scnd_74
+  - first:
+      213: -4664294135362069856
+    second: eige_tiles_scnd_75
+  - first:
+      213: -4598302122798854347
+    second: eige_tiles_scnd_76
+  - first:
+      213: -7557360784814143068
+    second: eige_tiles_scnd_77
+  - first:
+      213: 7412256252007810362
+    second: eige_tiles_scnd_78
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eige_tiles_scnd_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae62ea69b5061214ebfdd004d399fa44
+      internalID: 5705347303283862993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e35c7d329ec6d409ec4166005dcc79
+      internalID: 2604492225278705270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3d4c6b2f1db2544b2f815b3791aa47
+      internalID: -192082578005034343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afd1b1c640a1f64f8b4a4cfd7601839
+      internalID: -7435098437566504035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395b509065aacd14b8d27ca825a951b4
+      internalID: 4288855220249452050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b37e67a5dd2bae4c92cea0ad5fca6af
+      internalID: -7651937659652174584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db984ad3905f57644bb20acd0777b825
+      internalID: 136100910589829225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b6852afd4592544aa948eaf53d6b9d
+      internalID: -1944416065512619190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b94feae862a6840a8612267681af64
+      internalID: -8277347145138780604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c520c6dcd9c8df46a4534a1f390857c
+      internalID: 7877828547849432038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da997b7c8f90b6b4f859485957775750
+      internalID: -734092834560209480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 132
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3da0b06e7b07f84997c898976573a1b
+      internalID: -6064217824437359556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac2862ed1cec50428830112823aed35
+      internalID: -3107474227118124832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9b8d66b2f578c4cbce670d25d9cb2e
+      internalID: -1401835844123231966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852d6208ed721854c83147b3651ec63e
+      internalID: -1698123783866995955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ac344056a0de438aa429713fdb53a
+      internalID: 8112982087019404138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99c79d9ba167c546bec67490fd4345e
+      internalID: 8386724914326900825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5fd74daed943341ac5b3d6dc136066
+      internalID: -5213039309963932074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e0fc710cce3fd4cbd4492ea00625d8
+      internalID: -5047945619844959130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac1bd26f779b0d4493258f31c5a0e6d
+      internalID: -2299117606293804786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_20
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411e553048656a546854c015aebff2d9
+      internalID: 6903776928367368263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5141671b68ce05840ab24e6d47393814
+      internalID: 4431998727197514524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5887aef665d5d641944e7ec16361add
+      internalID: -2293889585105578589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eb2e2f865bdef4bbdedb86b8434845
+      internalID: -1523084513582048472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092671f8457974e4dbd974f0c7191b31
+      internalID: 5029923061599852802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc22401882d4a024c8c523452d2dca6e
+      internalID: -3662646488174576334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0228ff21e6caa147a08961c8a6b266d
+      internalID: -3846446681812065051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c43a36b32c6d44c9b6d2290307a461
+      internalID: -6611138964595290755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04df2f03ac8e6b48ab82eff9e27e5ab
+      internalID: 2825918088484474208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509ebb4e85f5fc84b81785dc74688adf
+      internalID: 6114532611745606736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1612ffb3f728bc84ca74a28f73221731
+      internalID: -5695386423694121145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b937ebb2b1adc7b4780e754d51c08362
+      internalID: 4812326342105260501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d91e02862a6ef941a953f773b398c0a
+      internalID: 6432608197783856929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014cdf389d702314eabcf1e6447b4da8
+      internalID: -8324144066293013216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec72247f02239642aba0e9525953309
+      internalID: 3277760050278497739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cf84a558fe00a448f89c101763a560
+      internalID: 7006886552943986519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9f1b108a7244a4996c30673e1facfa
+      internalID: 1403339130362792441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a103c5aa3d497354385694f22e2ed253
+      internalID: -3178353777407690478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d64cea24f871f4ca273e8997d87304
+      internalID: -1018877974593848318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999730218d9f1cb4dbeb5deadb4fe86d
+      internalID: 6485680979694608372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f84bfbf365f164db279a598c2cb475
+      internalID: 5987207713306933633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 84
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6505719ea40d44948860a634d956bf56
+      internalID: -2141644191004737066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2354fd5e864688d4d8c8fe090efc6912
+      internalID: 8507587049546508093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045b898935510ec4a9b58ec58dd9c87b
+      internalID: 2461463814735788044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c610ba5fdfedee946abda51d5398d511
+      internalID: 305240067932238642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0830c3aa23492c4cb86a14efce12ca7
+      internalID: -1406853520489210847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6140d4007b6c35b47a011b06ee67525d
+      internalID: 4560333518651639354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e184d4bc079a22a4d9ac40d7e52ed0de
+      internalID: -9008143977615733829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e152a498a55274e88a7962e9419d79
+      internalID: 7175654639365738738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef3f63d36c6b8444b6b6223f9bdaed9
+      internalID: -7869782025322743904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58f40e0feaa2ba45b3e0ecca08a7cb9
+      internalID: 3007927536790193915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ac3399bbe5793499902c4c7c152913
+      internalID: -7980228660716422114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eef21b94790624f81a62f39af379b3
+      internalID: -4692769181969709366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c02a50150623d41a37a0e5bda4f374
+      internalID: -7367746436947272657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb05ffe9b25a3d41a78e8bbffa87cd1
+      internalID: 2755769374390758166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3bcd2cc286e384bb8f0bdaf5036abc
+      internalID: -4717599804552887542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c770db27546765a46809bcad097aad82
+      internalID: -7206929896111064658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94749433045ae74a9c9ab5281c2a881
+      internalID: -2069487598590528961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2be83e5eb2ff0498686d561eefd83e
+      internalID: -3411729279837984806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ec65f56bcedd94d998782a48a4c004
+      internalID: 1464760867392825865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62d1db8cdeaa1b49b6221afaee5cbaf
+      internalID: 2740163715678155736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d02c522f3201a4ca561b5fa66b5730
+      internalID: -8664907330558342183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8029d1b3b77314997e53cebaa83f73
+      internalID: -3767803048563138429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea7a1ec57d930444a764d7c3f980922
+      internalID: 7729321366877007336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacefc0f09ba1584281c561d5d45804e
+      internalID: -6617084907063310967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778a18e4d5657747a334f92af5e5949
+      internalID: 8466190218222966865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8573ab5699c44ed46bb750737fd66f28
+      internalID: 5030216212603571775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f4ca34d61e04642a7e4d0b8c2b818a
+      internalID: -8363789131825084561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8228787c78d3f084bb82b99be8e95d4a
+      internalID: 2597167606750427229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_69
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab41cafadc6a42478966aa3e45b637d
+      internalID: 4014260210924059283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c14801008a2519458f2998fdc279b2d
+      internalID: 8927273740273875587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_71
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319f4abb4f9575740925f378a0ffd78c
+      internalID: 7752290455188798458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6175efb3b824de94a8da8a99af4d9f87
+      internalID: 1974061929898215983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_73
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b73be8a07ed5144ea0ad4d210b6020c
+      internalID: 7934519480154189999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf33293c78a5c245bfe6f22c1888126
+      internalID: 4798064284282133157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57611225663409b4caec4c0bff8ca3af
+      internalID: -4664294135362069856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531fd01f6bcf49b4aa335da908658885
+      internalID: -4598302122798854347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_77
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be158b3a724c11e42894ee9ea946c392
+      internalID: -7557360784814143068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eige_tiles_scnd_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe62c74691f4e8b48a6f542d3fe02c98
+      internalID: 7412256252007810362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
